@@ -160,7 +160,7 @@ Follow the steps below to set up and run the **Resume-JD RAG Assistant** on your
 git clone https://github.com/shubhamstat10/resume-jd-rag.git
 cd resume-jd-rag
 
-
+---
 ## 2. Create a Virtual Environment
 
 Create a Python virtual environment:
@@ -168,7 +168,7 @@ Create a Python virtual environment:
 ```bash
 python -m venv venv
 ```
-
+---
 ### Windows
 
 ```bash
