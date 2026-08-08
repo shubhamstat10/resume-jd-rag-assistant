@@ -157,13 +157,9 @@ Follow the steps below to set up and run the **Resume-JD RAG Assistant** on your
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/resume-jd-rag.git
+git clone https://github.com/shubhamstat10/resume-jd-rag.git
 cd resume-jd-rag
-```
 
-> Replace the repository URL with your actual GitHub repository URL.
-
----
 
 ## 2. Create a Virtual Environment
 
